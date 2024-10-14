@@ -142,3 +142,10 @@ GitHub is a for-profit company that offers a cloud-based Git repository hosting 
 - [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
 - [pyenv](https://github.com/pyenv/pyenv)
 - [poetry](https://python-poetry.org/docs/)
+
+<h3 id="useful-links">Downloads</h2>
+
+- [CISI Data](https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval)
+- [Twitter](https://drive.google.com/file/d/1bH5xpUxkQeKfniDt79UtDNfHdOVw7V2F/view?usp=sharing)
+- [Spotify](https://www.kaggle.com/datasets/asmonline/spotify-song-performance-dataset)
+- [Number Plates](https://www.kaggle.com/datasets/dataturks/vehicle-number-plate-detection/data)

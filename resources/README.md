@@ -15,6 +15,8 @@ Contacts: sergio.picascia@unimi.it
 1. **REGULAR**: take the exam in a regular exam session. You will be asked to complete different exercises in Python.
 2. **PROJECT**: develop a project in Python, according to the [requirements](#project-requirements). Prepare a 10 minutes presentation for the discussion of your project.
 
+Fill out the following form to register to the exam: https://forms.gle/FN87zB9TaxSUxJCF6
+
 <h2 id="calendar">Calendar</h2>
 
 - Sep 23rd, 16:30-18:00 - *Introduction*
@@ -25,7 +27,7 @@ Contacts: sergio.picascia@unimi.it
 - Oct 28th, 16:30-18:00 - *Data Visualization*
 - Nov 4th, 16:30-18:00 - *Dashboard*
 - Nov 11th, 16:30-18:00 - *Project Finalisation*
-- End of November (TBD) - *Evaluation*
+- Nov 25th, 14:00-18:00 - *Evaluation*
 
 **NOTE**: this is a tentative outline and and may be subject to changes.
 
@@ -143,7 +145,7 @@ GitHub is a for-profit company that offers a cloud-based Git repository hosting 
 - [pyenv](https://github.com/pyenv/pyenv)
 - [poetry](https://python-poetry.org/docs/)
 
-<h3 id="useful-links">Downloads</h2>
+<h3 id="downloads">Downloads</h2>
 
 - [CISI Data](https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval)
 - [Twitter](https://drive.google.com/file/d/1bH5xpUxkQeKfniDt79UtDNfHdOVw7V2F/view?usp=sharing)

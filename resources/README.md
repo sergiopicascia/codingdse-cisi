@@ -15,7 +15,7 @@ Contacts: sergio.picascia@unimi.it
 1. **REGULAR**: take the exam in a regular exam session. You will be asked to complete different exercises in Python.
 2. **PROJECT**: develop a project in Python, according to the [requirements](#project-requirements). Prepare a 10 minutes presentation for the discussion of your project.
 
-Fill out the following form to register to the exam: https://forms.gle/FN87zB9TaxSUxJCF6
+Fill out the following [form](https://forms.gle/FN87zB9TaxSUxJCF6) to register for the exam.
 
 <h2 id="calendar">Calendar</h2>
 
@@ -27,7 +27,7 @@ Fill out the following form to register to the exam: https://forms.gle/FN87zB9Ta
 - Oct 28th, 16:30-18:00 - *Data Visualization*
 - Nov 4th, 16:30-18:00 - *Dashboard*
 - Nov 11th, 16:30-18:00 - *Project Finalisation*
-- Nov 25th, 14:00-18:00 - *Evaluation*
+- Nov 25th, 14:00-18:00 - [*Evaluation*](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDJkNjUwYmQtN2NiZC00NWE2LTllMjgtMDg2YjgwMjU4YzEz%40thread.v2/0?context=%7b%22Tid%22%3a%2213b55eef-7018-4674-a3d7-cc0db06d545c%22%2c%22Oid%22%3a%22162f7b34-50be-49a1-9032-cfab1311b202%22%7d)
 
 **NOTE**: this is a tentative outline and and may be subject to changes.
 
